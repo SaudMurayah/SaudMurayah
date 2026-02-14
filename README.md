@@ -3,15 +3,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/SaudMurayah) 
 [![GitHub](https://img.shields.io/badge/GitHub-SaudMurayah-black?logo=github)](https://github.com/SaudMurayah)
 
+---
+
 ## 🔍 About Me
 Recent Computer Science graduate specializing in Cybersecurity with CompTIA Security+ certification. 
-Skilled in SIEM tools, threat detection, and network security, 
+
+---
 
 ## 🎓 Education
 - **B.S. in Computer Science** — King Khalid University (2022 – 2026)  
    - *Concentration in Cybersecurity*
-  
+
+  ---
+
 ## Projects
+
+---
 
 ## Technical Skills
 - **Software Tools:** Splunk, Active Directory, PowerShell, Wireshark, Nmap
