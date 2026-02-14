@@ -14,13 +14,18 @@ Recent Computer Science graduate specializing in Cybersecurity with CompTIA Secu
 - **B.S. in Computer Science** — King Khalid University (2022 – 2026)  
    - *Concentration in Cybersecurity*
 
-  ---
+---
 
-## Projects
+## 💡 Projects
+### [Decentralized Federated Learning For Enhancing Scalability & Resilience](https://github.com/SaudMurayah/FinalYearProject-DFL)
+
+### [Password Manager Tool](https://github.com/SaudMurayah/PasswordManagerTool)
+
+### [Log Analyzer Tool](https://github.com/SaudMurayah/LogAnalyzerTool)
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 - **Software Tools:** Splunk, Active Directory, PowerShell, Wireshark, Nmap
 - **Programming Language:** Python, C++, Bash, HTML, CSS, JavaScript
 - **Additional:** SIEM, Threat Detection, Vulnerability Management, Firewalls, Log Analysis, Technical Troubleshooting Networking, IDS/IPS, NIST
@@ -28,6 +33,6 @@ Recent Computer Science graduate specializing in Cybersecurity with CompTIA Secu
 
 ---
 
-## Languages 
+## 🌎 Languages 
 
 - **Languages:** English (Fluent), Arabic (Native)  
