@@ -8,7 +8,7 @@ Recent Computer Science graduate specializing in Cybersecurity with CompTIA Secu
 Skilled in SIEM tools, threat detection, and network security, 
 
 ## 🎓 Education
-- **B.S. in Computer Science** — King Khalid University (2022 – 2026)
+- **B.S. in Computer Science** — King Khalid University (2022 – 2026)  
    *Concentration in Cybersecurity*
   
 ## Projects
