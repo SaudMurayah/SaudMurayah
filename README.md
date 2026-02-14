@@ -1,21 +1,30 @@
 # Saud Murayah
 
-
-**B.Sc. in Computer Science** - *Concentration in Cybersecurity*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/SaudMurayah) 
 [![GitHub](https://img.shields.io/badge/GitHub-SaudMurayah-black?logo=github)](https://github.com/SaudMurayah)
-<!--
-**SaudMurayah/SaudMurayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔍 About Me
+Recent Computer Science graduate specializing in Cybersecurity with CompTIA Security+ certification. 
+Skilled in SIEM tools, threat detection, and network security, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **B.S. in Computer Science** — King Khalid University (2022 – 2026)
+  *Concentration in Cybersecurity*
+  
+## Projects
+
+## Technical Skills
+
+- **Languages:** Go, Python, Java, C/C++, Bash  
+- **Distributed Systems:** gRPC, Docker, Kafka  
+- **Cloud Platforms:** AWS, Google Cloud, CloudLab  
+- **Databases:** CockroachDB, MongoDB, SQLite, PostgreSQL  
+- **Machine Learning:** TensorFlow, PyTorch, Keras, Flower  
+- **Tools:** Git, GitHub, VS Code, Android Studio, LaTeX  
+- **OS:** Linux, Windows
+
+---
+
+## Languages 
+
+- **Languages:** English (Fluent), Arabic (Native)  
