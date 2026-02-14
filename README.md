@@ -1,6 +1,6 @@
 # Saud Murayah
 **B.Sc. in Computer Science - *Concentration in Cybersecurity*** <br>
-Interested in Cybersecurity and always look forward to developing my skills and expretise
+Interested in Cybersecurity and always look forward to developing my skills and expretise <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/SaudMurayah) 
 [![GitHub](https://img.shields.io/badge/GitHub-salemmohammed-black?logo=github)](https://github.com/SaudMurayah)
 <!--
