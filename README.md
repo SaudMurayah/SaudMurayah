@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Saud Murayah
+**B.Sc. in Computer Science -** *Concentration in Cybersecurity*
+Interested in Cybersecurity and always look forward to developing my skills and expretise
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/SaudMurayah) 
+[![GitHub](https://img.shields.io/badge/GitHub-salemmohammed-black?logo=github)](https://github.com/SaudMurayah)
 <!--
 **SaudMurayah/SaudMurayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
