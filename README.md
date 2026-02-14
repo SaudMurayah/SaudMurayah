@@ -14,14 +14,10 @@ Skilled in SIEM tools, threat detection, and network security,
 ## Projects
 
 ## Technical Skills
+- **Software Tools:** Splunk, Active Directory, PowerShell, Wireshark, Nmap
+- **Programming Language:** Python, C++, Bash, HTML, CSS, JavaScript
+- **Additional:** SIEM, Threat Detection, Vulnerability Management, Firewalls, Log Analysis, Technical Troubleshooting Networking, IDS/IPS, NIST
 
-- **Languages:** Go, Python, Java, C/C++, Bash  
-- **Distributed Systems:** gRPC, Docker, Kafka  
-- **Cloud Platforms:** AWS, Google Cloud, CloudLab  
-- **Databases:** CockroachDB, MongoDB, SQLite, PostgreSQL  
-- **Machine Learning:** TensorFlow, PyTorch, Keras, Flower  
-- **Tools:** Git, GitHub, VS Code, Android Studio, LaTeX  
-- **OS:** Linux, Windows
 
 ---
 
