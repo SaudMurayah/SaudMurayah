@@ -2,6 +2,7 @@
 
 
 **B.Sc. in Computer Science** - *Concentration in Cybersecurity*
+
 Interested in Cybersecurity and always look forward to developing my skills and expretise 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/SaudMurayah) 
