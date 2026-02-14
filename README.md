@@ -22,6 +22,7 @@ Recent Computer Science graduate specializing in Cybersecurity with CompTIA Secu
 ### [Password Manager Tool](https://github.com/SaudMurayah/PasswordManagerTool)
 
 ### [Log Analyzer Tool](https://github.com/SaudMurayah/LogAnalyzerTool)
+
 A powerful tool that scans log files to detect security threats like data breaches, malware, unauthorized access, phishing, and APTs using pattern-based detection. 
 It provides automated analysis, detailed reports, visual insights,
 and supports custom regex patterns for enhanced threat monitoring. 
